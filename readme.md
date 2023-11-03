@@ -41,8 +41,8 @@ launch the move_bot_by_seq_goal to keep Turtlebot3 moving by a sequnence of pre-
 $ roslaunch keep_turtlebot3_moving move_bot_by_seq_goal.launch
 
 
-# ========================== Translated using www.DeepL.com/Translator（無料版）で翻訳しました。=============================================
-# 課題
+### ========================== Translated using www.DeepL.com/Translator（無料版）で翻訳しました。=============================================
+
 ROSを使い、Turtlebot3のGazeboと接続し、障害物にぶつかることなく標準のWorldでTurtlebot3を動かし続ける制御プログラムを作成します。
 
 このタスクは、2種類のアプローチで行いました。
